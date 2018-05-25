@@ -1,4 +1,4 @@
-void bubbleSort( int *  array ,int size)
+void bubbleSort(const int *  array ,int size)
 {
 	void swap( int *element1Ptr, int *element2Ptr);
 	int j,n;
